@@ -1,10 +1,10 @@
 # unit12-emp-tracker
 
-![image](https://drive.google.com/file/d/1w7G9Q42peXE71EcFFlFmFAvaY-ivZdTJ/view)
+![image](https://github.com/mukul2016/unit12-emp-tracker/blob/main/emp-tracker.png)
 
 <h1 align="center">Employee Tracker </h1>
 
-![badge](https://github.com/mukul2016/unit12-emp-tracker/blob/main/emp-tracker.png)<br />
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
 🔍Employee Tracker is an app using mysql2, node.js to manage employee database i.e it can create/add/update department, employee information
