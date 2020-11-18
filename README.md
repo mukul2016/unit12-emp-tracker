@@ -1,6 +1,6 @@
 # unit12-emp-tracker
 
-[!image](https://drive.google.com/file/d/1w7G9Q42peXE71EcFFlFmFAvaY-ivZdTJ/view)
+![image](https://drive.google.com/file/d/1w7G9Q42peXE71EcFFlFmFAvaY-ivZdTJ/view)
 
 <h1 align="center">Employee Tracker </h1>
 
