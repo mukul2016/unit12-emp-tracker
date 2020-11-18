@@ -4,7 +4,7 @@
 
 <h1 align="center">Employee Tracker </h1>
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://github.com/mukul2016/unit12-emp-tracker/blob/main/emp-tracker.png)<br />
 
 ## Description
 🔍Employee Tracker is an app using mysql2, node.js to manage employee database i.e it can create/add/update department, employee information
